@@ -1,4 +1,4 @@
-# 🧪  Selenium BDD Cucumber Automation Framework
+# 🧪 Selenium-BDD-Cucumber
 
 A Proof of Concept (POC) for end-to-end **web automation testing** using **Selenium**, **Cucumber BDD**, **TestNG**, and the **Page Object Model (POM)**. This project simulates a real-world e-commerce flow — validating the *Add to Cart* functionality — and is structured to be readable, reusable, and scalable.
 
