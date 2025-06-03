@@ -4,18 +4,18 @@
 
 A Proof of Concept (POC) for end-to-end **web automation testing** using **Selenium**, **Cucumber BDD**, **TestNG**, and the **Page Object Model (POM)**. This project simulates a real-world e-commerce flow — validating the *Add to Cart* functionality — and is structured to be readable, reusable, and scalable.
 
-🔗 **GitHub Repository:** [web-automation-poc](https://github.com/vidyav7284/web-automation-poc)
+🔗 **GitHub Repository:** [web-automation-poc](https://github.com/vidyav7284/selenium-bdd-cucumber)
 
 ---
 
 ## 📸 Project Execution Report
 
-![Demo Screenshot](https://github.com/user-attachments/assets/58a45044-2c70-4f48-a988-357bb421d26c)
+![reoprt](https://github.com/user-attachments/assets/0b4c84c4-2f4e-4a85-a1fb-96471a233742)
 
 
 ## 🎥 Automation Flow (GIF)
 
-![DemoVideo](https://github.com/user-attachments/assets/a6e5e6d7-fd3f-42ca-b060-b926a1857bc5)
+![demoVideo](https://github.com/user-attachments/assets/bfe93208-65d1-4b19-a433-6e76c8c41510)
 
 
 
@@ -63,7 +63,7 @@ A Proof of Concept (POC) for end-to-end **web automation testing** using **Selen
 🗂️ Project Structure
 
 
-![ProjectSrructure](https://github.com/user-attachments/assets/96cc2b8e-ec7e-41c5-8936-f3fa25d9ea93)
+![projectStructure](https://github.com/user-attachments/assets/cc4ec086-4f57-4b2b-a563-1412ad25be64)
 
 ---
 
