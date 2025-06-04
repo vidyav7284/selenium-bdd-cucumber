@@ -2,7 +2,7 @@
 
 A Proof of Concept (POC) for end-to-end **web automation testing** using **Selenium**, **Cucumber BDD**, **TestNG**, and the **Page Object Model (POM)**. This project simulates a real-world e-commerce flow — validating the *Add to Cart* functionality — and is structured to be readable, reusable, and scalable.
 
-🔗 **GitHub Repository:** [web-automation-poc](https://github.com/vidyav7284/selenium-bdd-cucumber)
+🔗 **GitHub Repository:** [selenium-bdd-cucumber](https://github.com/vidyav7284/selenium-bdd-cucumber)
 
 ---
 
